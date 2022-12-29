@@ -1,8 +1,9 @@
 # Sara Atlas (Mendlsohn)
 
 
-## Technologies
-### Server side
+## Technologies:
+
+## Server side
 * .NET Core 6.0 Entity FrameWork (Visual Studio 2022)
 
 ## Client side
